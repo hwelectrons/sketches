@@ -1,2 +1,2 @@
 # sketches
-The collection of sketches published on site http://www.hwelectrons.com
+The collection of sketches published on http://www.hwelectrons.com
