@@ -43,7 +43,7 @@ int uart_putchar(char c, FILE *stream)
   return 0;
 }
 
-//Wrapper funtion for input
+//Wrapper function for input
 int uart_getchar(FILE *stream)
 {
   int ch;
